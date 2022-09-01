@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+CS202, CompSci Undergrad at UNR. Outside of computers, I like to play sports and listen, produce, and play music. 
+
 <!--
 **SuperCoderx43/SuperCoderx43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
